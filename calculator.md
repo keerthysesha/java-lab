@@ -1,15 +1,13 @@
-Write a program to print the arithmetic operations.
-    
- AIM:
-     To write a java program to print the arithmetic operations.
+AIM:
+	To write a java program to print the arithmetic operations.
          
 PROCEDURE:
-           STEP-1: Import the Java Scanner to get input from the user.
-           STEP-2: Declare teh variables that we are about to use.
-           STEP-3: Instantiate the Scanner class.
-           STEP-4: Get two numbers as input from the user.
-           STEP-5: Perform all arithmetic operations such as Addition,Difference,Product,Quotient and Modulus and print the output.
-           Step-6: Close the object of the Scanner class.
+	STEP-1: Import the Java Scanner to get input from the user.
+    STEP-2: Declare teh variables that we are about to use.
+    STEP-3: Instantiate the Scanner class.
+    STEP-4: Get two numbers as input from the user.
+    STEP-5: Perform all arithmetic operations such as Addition,Difference,Product,Quotient and Modulus and print the output.
+    Step-6: Close the object of the Scanner class.
 
  CODE:
 
