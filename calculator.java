@@ -1,3 +1,18 @@
+Write a program to print the arithmetic operations.
+    
+ AIM:
+     To write a java program to print the arithmetic operations.
+         
+PROCEDURE:
+           STEP-1: Import the Java Scanner to get input from the user.
+           STEP-2: Declare teh variables that we are about to use.
+           STEP-3: Instantiate the Scanner class.
+           STEP-4: Get two numbers as input from the user.
+           STEP-5: Perform all arithmetic operations such as Addition,Difference,Product,Quotient and Modulus and print the output.
+           Step-6: Close the object of the Scanner class.
+
+ CODE:
+
 import java.util.Scanner;
 
 public class calculator {
@@ -52,3 +67,27 @@ public class calculator {
         s.close();
     };
 }
+
+OUTPUT:
+
+PS C:\Users\phoen\OneDrive\Documents\Java Full Stack> javac w1a7.java
+PS C:\Users\phoen\OneDrive\Documents\Java Full Stack> java w1a7      
+        ---------------------------
+        |        CALCULATOR       |
+        ---------------------------
+        |     1.ADDITION          |
+        |     2.SUBTRACTION       |
+        |     3.MULTIPLICATION    |
+        |     4.DIVISION          |
+        ---------------------------
+        Enter your choice: 2
+        Enter a number: 56
+        Enter a number: 26
+        DIFFERENCE: 30
+        Do You still wanna continue?(Y/N)y
+----------------------------------------------
+        Enter your choice: 3
+        Enter a number: 5
+        Enter a number: 6
+        PRODUCT: 30
+
