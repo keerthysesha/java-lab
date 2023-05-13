@@ -1,3 +1,18 @@
+Write a program to find the no of days in a month.
+    
+AIM:
+    To write a program to find the no of days in a month.
+        
+PROCEDURE:
+          STEP-1: Import the Java Scanner to get input from the user.
+          STEP-2: Declare teh variables that we are about to use.
+          STEP-3: Instantiate the Scanner class.
+          STEP-4: Get two numbers as input from the user.
+          STEP-5: Find the no of days in a month and print the output.
+          Step-6: Close the object of the Scanner class.
+
+CODE:
+
 import java.util.*;
 public class days
 {
@@ -29,3 +44,11 @@ public class days
     };
 }
 
+OUTPUT:
+
+PS C:\Users\Keerthy Seshasayanam\OneDrive\Desktop\java> javac days.java   
+PS C:\Users\Keerthy Seshasayanam\OneDrive\Desktop\java> java days      
+Enter the month: August
+Enter the year: 2023
+August has 31 days
+PS C:\Users\Keerthy Seshasayanam\OneDrive\Desktop\java>
